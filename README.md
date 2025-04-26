@@ -2,4 +2,3 @@ my name is haroon nadir its all about blog portfolio code given below and please
 <h1> haroon nadir</h1>
 <HR>
 <HR>
-=
